@@ -84,7 +84,5 @@ It demonstrates key enterprise network concepts including:
 - Networks C and F can **only communicate with each other**.
 - Denied all other communication with ACL rules.
 
----
 
-## 📂 Project Folder Structure
 
